@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esteban Fernández</h1>
 <h3 align="center">A passionate developer from Paraguay</h3>
-
-- 👨‍💻 I’m currently working at **freelancer**
-
+<!-- - 👨‍💻 I’m currently working at **freelancer** -->
 - 🌱 I’m currently learning **springboot**
 
 - 📫 How to reach me **estebangfernandeza@gmail.com**
